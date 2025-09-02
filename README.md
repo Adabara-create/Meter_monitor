@@ -1,6 +1,6 @@
-# meter_monitor
+# Meter_monitor
 
-A new Flutter project.
+The frontend app for meter_monitor
 
 ## Getting Started
 
